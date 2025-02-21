@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+:root{
+    user-select: none;
+    color:white;
+    background-color: black;
+}
